@@ -1,0 +1,23 @@
+#root{
+  background-color:lightgrey;
+  width:fite-content;
+  padding:10px;
+  border-radius:10px;
+}
+
+label{
+  display:block;
+  font-weight:bold;
+}
+
+
+
+input{
+  display:block;
+  width:100%;
+  margin-bottom:10px;
+}
+
+p{
+  text-algin:right;
+}
